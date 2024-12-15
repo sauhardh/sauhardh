@@ -1,4 +1,5 @@
-
+<div style="display:flex justify-content:center align-items:center">
+  
 <div style="text-align:center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=40&pause=1000&color=060050&background=78ADFF&center=true&vCenter=true&random=true&width=500&lines=Sauhardha+Kafle"/>
   <div>
@@ -19,3 +20,7 @@
 [![Noisy_ai](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=noisy_ai&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/noisy_ai)
 [![Songit-cli](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=songit-cli&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/songit-cli)
 [![Zizz](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=zizz&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/zizz)
+
+
+</div>
+

@@ -1,10 +1,6 @@
 <div style="display:flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
   
-<div style="text-align:center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=40&pause=1000&color=060050&center=true&vCenter=true&random=true&width=500&lines=Sauhardha+Kafle"/>
-  <div>
-
-
+[![Sauhardha Kafle](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=45&pause=1000&color=001C60&background=6BAC99EC&center=true&vCenter=true&random=true&width=600&height=60&lines=Sauhardha+Kafle)](https://git.io/typing-svg)
 
 <hr>
 

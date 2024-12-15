@@ -1,5 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=40&pause=1000&color=060050&background=78ADFF&center=true&vCenter=true&random=true&width=500&lines=Sauhardha+Kafle)](https://git.io/typing-svg)
+<div style="text-align:center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=40&pause=1000&color=060050&background=78ADFF&center=true&vCenter=true&random=true&width=500&lines=Sauhardha+Kafle"/>
+  <div>
+
 
 <hr>
 

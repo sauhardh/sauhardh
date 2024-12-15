@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center; align-items:center;">
+<div style="display:flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
   
 <div style="text-align:center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=40&pause=1000&color=060050&background=78ADFF&center=true&vCenter=true&random=true&width=500&lines=Sauhardha+Kafle"/>

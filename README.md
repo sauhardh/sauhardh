@@ -16,6 +16,6 @@
 <hr>
 
 [![CodeRoom](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=coderoom&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/CodeRoom)
-[![Zizz](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=zizz&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/zizz)
-[![Songit-cli](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=songit-cli&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/songit-cli)
 [![Noisy_ai](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=noisy_ai&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/noisy_ai)
+[![Songit-cli](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=songit-cli&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/songit-cli)
+[![Zizz](https://github-readme-stats.vercel.app/api/pin/?username=ostrich-egg&repo=zizz&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/zizz)

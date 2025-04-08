@@ -6,7 +6,7 @@
 
 [![CodeRoom](https://github-readme-stats.vercel.app/api/pin/?username=sauhardh&repo=coderoom&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/CodeRoom)
 [![Noisy_ai](https://github-readme-stats.vercel.app/api/pin/?username=sauhardh&repo=noisy_ai&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ostrich-egg/noisy_ai)
-[![Songit-cli](https://github-readme-stats.vercel.app/api/pin/?username=sauhardh&repo=songit-cli&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/sauhardh/songit-cli)
+[![dlm_rust](https://github-readme-stats.vercel.app/api/pin/?username=sauhardh&repo=dlm_rust&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/sauhardh/dlm_rust)
 [![Zizz](https://github-readme-stats.vercel.app/api/pin/?username=sauhardh&repo=zizz&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/sauhardh/zizz)
 
 
